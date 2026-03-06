@@ -1,6 +1,6 @@
 [submodule "onlineabr"]
 	path = onlineabr
-	url = git@gitlab.uni-oldenburg.de:teer6901/onlineabr.git
+	url = https://github.com/rainbeu/onlineabr.git
 [submodule "abrviewer"]
 	path = abrviewer
-	url = git@gitlab.uni-oldenburg.de:teer6901/abrviewer.git
+	url = https://github.com/rainbeu/abrviewer.git
